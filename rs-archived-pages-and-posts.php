@@ -379,7 +379,7 @@ function rs_archive_column_size_css() {
 add_action('admin_print_scripts', 'rs_archive_column_size_css');
 
 // Display post meta value in custom column
-function rs_archive_rs_column_content($column, $post_id) {
+function rs_archive_column_content($column, $post_id) {
     if ($column === 'archived_post_type') {
         $archived_post_type = get_post_meta($post_id, '_archived_post_type', true);
 		$post_type_label = rs_archive_get_post_type_label( $archived_post_type );
@@ -387,7 +387,7 @@ function rs_archive_rs_column_content($column, $post_id) {
 		echo '<span class="row-actions"> ('. $archived_post_type . ')</span>';
     }
 }
-add_action('manage_archive_posts_rs_column', 'rs_archive_rs_column_content', 10, 2);
+add_action('manage_archive_posts_custom_column', 'rs_archive_column_content', 10, 2);
 
 // Make the custom column sortable
 function rs_archive_sortable_column($columns) {

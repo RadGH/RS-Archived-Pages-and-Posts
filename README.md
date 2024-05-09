@@ -18,7 +18,7 @@ Use the meta box shown below to move a post/page to the archive. If using the bl
 
 ![The meta box to move a post/page to the archive.](https://s3.us-west-2.amazonaws.com/elasticbeanstalk-us-west-2-868470985522/ShareX/2023/08/chrome_2023-08-17_14-06-40.png)
 
-Meta box to recover an archived item:
+When viewing an archived post, a similar meta box allows you to restore the item:
 ![The meta box to recover an archived item.](https://s3.us-west-2.amazonaws.com/elasticbeanstalk-us-west-2-868470985522/ShareX/2023/08/chrome_2023-08-17_14-07-23.png)
 
 ## Changelog ##

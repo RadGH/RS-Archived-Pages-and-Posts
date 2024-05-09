@@ -23,7 +23,7 @@ Meta box to recover an archived item:
 
 ## Changelog ##
 
-#### 1.0.0
+#### 1.0.1
 * Added Git Updater support
 
 #### 1.0.0

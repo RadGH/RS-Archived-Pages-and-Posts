@@ -14,7 +14,8 @@ This WordPress plugin adds the ability to move a post or page to a separate "arc
 
 ## Screenshots ##
 
-Meta box to move a post/page to the archive:
+Use the meta box shown below to move a post/page to the archive. If using the block editor, find the same meta box under the page settings:
+
 ![The meta box to move a post/page to the archive.](https://s3.us-west-2.amazonaws.com/elasticbeanstalk-us-west-2-868470985522/ShareX/2023/08/chrome_2023-08-17_14-06-40.png)
 
 Meta box to recover an archived item:

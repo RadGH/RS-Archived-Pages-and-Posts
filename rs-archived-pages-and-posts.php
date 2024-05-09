@@ -2,9 +2,10 @@
 /*
 Plugin Name: RS Archived Pages and Posts
 Description: Adds the ability to move a post or page to a separate "archive" post type. Archived items can only be viewed by administrators, and can be restored to their original post type at any time.
-Version: 1.0
+Version: 1.0.1
 Author: Radley Sustaire
 Author URI: https://radleysustaire.com/
+GitHub Plugin URI: https://github.com/RadGH/RS-Archived-Pages-and-Posts
 */
 
 // Register 'archive' custom post type

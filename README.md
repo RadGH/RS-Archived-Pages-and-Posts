@@ -12,18 +12,6 @@ This WordPress plugin adds the ability to move a post or page to a separate "arc
     Tested up to: 6.3
     Stable tag: 1.0.0
 
-## Installation ##
-
-1. Upload the plugin zip file through the WordPress plugins screen, or upload the extracted plugin files to `/wp-content/plugins/rs-archived-pages-and-posts/`.
-2. Activate the plugin through the 'Plugins' screen.
-3. When editing a post or page, the sidebar contains a checkbox "Move this post to archive". Check that box, then save the post.
-4. Your page or post should now be under the "Archived Posts" section on the dashboard.
-5. Restore items from the archive using the option "Restore post from archive".
-
-## Frequently Asked Questions ##
-
-None yet.
-
 ## Screenshots ##
 
 Meta box to move a post/page to the archive:
@@ -35,8 +23,7 @@ Meta box to recover an archived item:
 ## Changelog ##
 
 #### 1.0.0
+* Added Git Updater support
+
+#### 1.0.0
 * First release
-
-## Upgrade Notice ##
-
-None

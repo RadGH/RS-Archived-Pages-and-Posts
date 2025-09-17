@@ -5,14 +5,16 @@ This WordPress plugin adds the ability to move a post or page to a separate "arc
 
 - [View this plugin on Zingmap.com](https://zingmap.com/plugin/rs-archived-pages-and-posts/)
 
-    Author: Radley Sustaire
-    Author URI: https://radleysustaire.com/
-    Contributors: radgh
-    Donate link: https://paypal.me/radgh
-    Tags: posts, pages, archives, custom-post-type
-    Requires at least: 6.3
-    Tested up to: 6.3
-    Stable tag: 1.0.0
+```
+Author: Radley Sustaire
+Author URI: https://radleysustaire.com/
+Contributors: radgh
+Donate link: https://paypal.me/radgh
+Tags: posts, pages, archives, custom-post-type
+Requires at least: 6.3
+Tested up to: 6.3
+Stable tag: 1.0.0
+```
 
 ## Screenshots ##
 

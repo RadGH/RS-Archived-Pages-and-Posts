@@ -1,7 +1,9 @@
 # RS Archived Pages and Posts (WordPress Plugin)
 ---
 
-This WordPress plugin adds the ability to move a post or page to a separate "archive" post type. Archived items can be restored to their original post type at any time. While archived, these pages and posts can only be viewed by administrators. 
+This WordPress plugin adds the ability to move a post or page to a separate "archive" post type. Archived items can be restored to their original post type at any time. While archived, these pages and posts can only be viewed by administrators.
+
+- [View this plugin on Zingmap.com](https://zingmap.com/plugin/rs-archived-pages-and-posts/)
 
     Author: Radley Sustaire
     Author URI: https://radleysustaire.com/
